@@ -1,0 +1,4 @@
+float32 xVelLin     # X-axis linear velocity
+float32 zVelAng     # Z-axis angular velocity
+---
+bool success        # Return status for wheel controller

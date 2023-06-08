@@ -1,0 +1,5 @@
+float32 min_dist
+float32 front_dist
+---
+float32 lin_x
+float32 ang_z

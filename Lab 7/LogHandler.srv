@@ -1,0 +1,5 @@
+time  timestamp # Time
+uint8 level     # Logging level
+string msg      # Message contents
+---
+bool success    # Message state
