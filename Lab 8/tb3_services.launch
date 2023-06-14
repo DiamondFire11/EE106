@@ -1,0 +1,6 @@
+<launch>
+  <node pkg="ee106s23" name="TFNode" type="tf_node.py" output="screen"></node>
+  <node pkg="ee106s23" name="LidarNode" type="lidar_node.py" output="screen"></node>
+  <node pkg="ee106s23" name="SMNode" type="sm_node.py" output="screen"></node>
+  <node pkg="ee106s23" name="WheelNode" type="wheel_node.py" output="screen"></node>
+</launch>
