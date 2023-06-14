@@ -1,0 +1,4 @@
+---
+bool success       # Indicate service execution state
+float32[] l_dist   # Left distances
+float32 f_dist     # Front distances

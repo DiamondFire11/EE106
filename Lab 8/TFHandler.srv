@@ -1,0 +1,5 @@
+---
+float32[] rowA  # First row of TF mtx
+float32[] rowB  # Second row of TF mtx
+float32[] rowC  # Third row of TF mtx
+float32[] rowD  # Fourth row of TF mtx
